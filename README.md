@@ -15,7 +15,7 @@ Este sistema foi desenvolvido como parte de um desafio técnico para gestão de 
    git clone https://github.com/andrezacass/desafio-p21.git
 
 
-## 🧠 Decisões Tomadas Durante o Desenvolvimento
+## Decisões Tomadas Durante o Desenvolvimento
 
 Para garantir a qualidade e a funcionalidade do sistema, tomei as seguintes decisões:
 
